@@ -2,6 +2,10 @@ h2 {
     font-size: 3em;
 }
 
+#electrician {
+float: right;
+}
+
 body
 {
   background: linear-gradient(to right, #1a0f00, #c49017);
