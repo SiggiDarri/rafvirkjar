@@ -3,7 +3,20 @@ h2 {
 }
 
 #electrician {
-float: right;
+    float: right;
+    height: 100%;    
+}
+
+h2 {
+    font-size: 3em;
+}
+
+#phone {
+    max-height: 3em;
+}
+
+#envelope {
+    max-height: 3em;
 }
 
 body {
