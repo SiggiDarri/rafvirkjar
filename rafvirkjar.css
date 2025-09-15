@@ -6,7 +6,14 @@ h2 {
 float: right;
 }
 
-body
-{
-  background: linear-gradient(to right, #1a0f00, #c49017);
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2rem 4rem;
+  background: linear-gradient(to right, #1a0f00 0%, #4a3200 40%, #c49017 100%);
+  color: #f2a93b; /* Golden-orange text */
 }
