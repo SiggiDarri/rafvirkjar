@@ -1,10 +1,14 @@
 h2 {
     font-size: 3em;
+    width: 100%;
 }
 
 #electrician {
+    position: absolute;
     float: right;
+    vertical-align: top;
     height: 100%;    
+    right: 0;
 }
 
 h2 {
