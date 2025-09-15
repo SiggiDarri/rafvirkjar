@@ -1,3 +1,8 @@
 h2 {
     font-size: 3em;
 }
+
+body
+{
+  background: linear-gradient(to right, #1a0f00, #c49017);
+}
