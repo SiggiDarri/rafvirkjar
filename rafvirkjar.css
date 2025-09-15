@@ -28,6 +28,14 @@ h2 {
     max-height: 3em;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:visited, a:hover, a:link, a:active {
+    color: #f2a93b;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;    
   background: linear-gradient(to right, #1a0f00 0%, #4a3200 40%, #c49017 100%);
