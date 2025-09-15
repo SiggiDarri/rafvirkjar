@@ -27,12 +27,15 @@ h2 {
     font-size: 3em;
 }
 
-#phone {
+h2 img{
     max-height: 3em;
+    vertical-align: middle
+}
+
+#phone {
 }
 
 #envelope {
-    max-height: 3em;
 }
 
 a {
